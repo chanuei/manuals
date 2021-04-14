@@ -30,6 +30,7 @@ User账号的格式为xxx_yyyy，其中xxx字段为您的Account账号，yyyy字
 通常VPN账号与User账号同名，且具有相同的初始密码。   
 ## 3. 登录  
 ### 3.1. VPN登录  
+VPN登录支持浏览器及客户端两种方式登录,根据自己的实际情况任选一种即可。  
 #### 3.1.1. 通过浏览器登录  
 浏览器登录的方式仅适用于Windows环境下通过IE浏览器进行登录 。  
 在浏览器地址栏中输入：  https://58.18.173.30:9443  
@@ -41,6 +42,12 @@ User账号的格式为xxx_yyyy，其中xxx字段为您的Account账号，yyyy字
 点击下方风险提示栏中的允许按钮  
 ![alt ie_vpn_4](imgs/ie_vpn_4.png)  
 输入用户名及密码后，点击登录按钮即可成VPN登录。  
+#### 3.1.2 通过secoclient客户端登录  
+1. 下载客户端  
+请使用百度网盘下载客户端软件secoclient  
+[点击此处 百度网盘](https://pan.baidu.com/s/1PqmEYBZn_u2RTp9uD2fUtQ "SecoClient百度网盘地址")  
+提取码：zk8c  
+2.
 ## 4. 数据传输  
 ## 5. 作业  
 ## 6. 软件  
