@@ -65,8 +65,14 @@ Linux客户端安装需要root权限，具体方法为：
 用安卓设备自带的文件管理软件或百度云盘手机客户端找到所下载的安装程序secoclient-android-7.0.2.33.apk，点按后按系统提示安装即可。  
 　***[Mac OS X客户端安装]***  
 解压缩后双击SecoClientInstaller，按相关提示完成安装。  
-3.
-
+##### 3.1.2.3. 配置客户端  
+下面以Windows版本为例，说明如何设置到和林超算中心的VPN连接。    
+1) 启动SecoClient客户端，未经配置的客户端如下图所示。  
+![alt SecoClient](imgs/secoclient_1.png)  
+2) 点击连接文本框后面的编辑按钮，将打开新建连接对话框	 
+![alt SecoClient](imgs/secoclient_2.png)  
+主用链路，选择连接类型为SSL VPN，设置连接名称为HLCS_Main, 网关地址为58.18.173.30，端口为9443。点击确定按钮保存设置。  
+注：备用链路HLCS_Alt1，暂无，待提供  
 ## 4. 数据传输  
 ## 5. 作业  
 ## 6. 软件  
