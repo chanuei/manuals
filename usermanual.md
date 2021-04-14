@@ -47,7 +47,17 @@ VPN登录支持浏览器及客户端两种方式登录,根据自己的实际情�
 请使用百度网盘下载客户端软件secoclient  
 [点击此处 百度网盘](https://pan.baidu.com/s/1PqmEYBZn_u2RTp9uD2fUtQ "SecoClient百度网盘地址")  
 提取码：zk8c  
-2.
+2. 安装客户端  
+$\color{blue}{Windows客户端安装：}$双击下载来的secoclient安装程序根据程序提示进行安装即可。  
+$\color{blue}{Linux客户端安装：}$Linux客户端安装需要root权限，具体方法为：
+1)赋予下载来的安装程序以可执行权限  
+`bash
+[root@host Downloads]# chmod +x secoclient-linux-64-7.0.2.33.run  
+`  
+
+2)执行安装程序，并按相关提示完成安装
+[root@host Downloads]# ./secoclient-linux-64-7.0.2.33.run                          
+4. 
 ## 4. 数据传输  
 ## 5. 作业  
 ## 6. 软件  
