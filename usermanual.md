@@ -51,14 +51,15 @@ VPN登录支持浏览器及客户端两种方式登录,根据自己的实际情�
 2. 安装客户端  
 <font color=blue>Windows客户端安装：</font>双击下载来的secoclient安装程序根据程序提示进行安装即可。  
 <font color=blue>Linux客户端安装：</font>Linux客户端安装需要root权限，具体方法为：  
-(1) 赋予下载来的安装程序以可执行权限  
+　　1) 赋予下载来的安装程序以可执行权限  
 ```shell
 [root@host Downloads]# chmod +x secoclient-linux-64-7.0.2.33.run  
 ```  
-(2) 执行安装程序，并按相关提示完成安装  
+　　2) 执行安装程序，并按相关提示完成安装  
 ```shell
-[root@host Downloads]# ./secoclient-linux-64-7.0.2.33.run                          
+[root@host Downloads]# ./secoclient-linux-64-7.0.2.33.run  
 ```  
+
 <font color=blue>Android客户端安装：</font>用安卓设备自带的文件管理软件或百度云盘手机客户端找到所下载的安装程序secoclient-android-7.0.2.33.apk，点按后按系统提示安装即可。  
 <font color=blue>Mac OS X客户端安装：</font>解压缩后双击SecoClientInstaller，按相关提示完成安装。  
 3.
